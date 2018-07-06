@@ -4,6 +4,7 @@ nav.main-nav {
 }
 
 a.links {
+	color: #FFF;
 	text-decoration: none;
 }
 
@@ -15,7 +16,7 @@ h1 {
 }
 
 h2 {
-	color: #FF6600;
+	color: #FFF;
 	font-family: Arial;
 	font-size: 16pt;
 	text-align: center;
@@ -26,9 +27,16 @@ body {
 }
 
 p.text1 {
-	color: #FF6600;
+	color: #FFF;
 	font-family: Arial;
 	font-size: 14pt;
+}
+
+p.text2 {
+	color: #FFF;
+	font-family: Arial;
+	font-size: 14pt;
+	text-align: center;
 }
 
 img.profile-pic {
