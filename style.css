@@ -1,0 +1,27 @@
+nav.main-nav {
+	font-family: Verdana;
+	text-align: right;
+}
+
+h1 {
+	color: #FF6600;
+	font-family: Verdana;
+	font-size: 20pt;
+	text-align: center;
+}
+
+h2 {
+	color: #FF6600;
+	font-family: Arial;
+	font-size: 16pt;
+	text-align: center;
+}
+
+body {
+	background-color: #1F282E;
+}
+
+p.aboutme {
+	color: #FF6600;
+	font-family: Arial;
+}
