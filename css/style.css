@@ -43,6 +43,13 @@ h2 {
 	text-align: center;
 }
 
+h3 {
+	color: #FFF;
+	font-family: Arial;
+	font-size: 14pt;
+	text-align: left;
+}
+
 nav.main-nav {
 	font-family: Verdana;
 	text-align: right;
